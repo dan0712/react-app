@@ -1,6 +1,4 @@
-# eSpeakers client front end
-
-eSpeakers front end built on React, Redux, React-Toolbox on Webpack
+front end built on React, Redux, React-Toolbox on Webpack
 
 ## Setup
 
